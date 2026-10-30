@@ -1,0 +1,4 @@
+interface:
+  display_name: "MV Prompt Director"
+  short_description: "上传参考图，生成含分镜、表演与音画同步设计的30秒 Seedance MV 完整提示词"
+  default_prompt: "使用 $mv-prompt-director，根据我上传的参考图生成一份可与图片一起提交给 Seedance 2.5 的30秒完整音乐 MV 提示词，包含多景别拍摄、主动表演、原创音乐与歌词、音画同步及连续性；未指定的创作设定请合理补全。"
